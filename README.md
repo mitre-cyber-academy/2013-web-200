@@ -3,5 +3,7 @@ Description: Bruce is trying to see why Gotham Times readers think about Batman;
 
 Hot to Solve: Set user agent to something containing 'googlebot'
 
+How to Stand Up locally: Install [vagrant](http://vagrantup.com/) and then run `vagrant up` from the root of this directory. After the script finished, navigate to [localhost:8080](http://localhost:8080) in your browser.
+
 Flag: MCA-D0369CF1
 
